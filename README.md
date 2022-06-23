@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! Bonjour! I'm Mavbib
-<em>independent developer under the name Digitalinfo</em><br/>
-:mailbox_with_no_mail:## Reach me at
+*independent developer under the name Digitalinfo*
+## :mailbox_with_no_mail: Reach me at
 <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
 <a href="https://twitter.com/xaltran">Twitter</a><br/>
 ## Github Stats
