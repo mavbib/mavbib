@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
 <a href="https://twitter.com/xaltran">Twitter</a><br/>
 <a onclick="togceci()"><h2>Github Stats</h2><i class='fas fa-angle-down' style='font-size:36px'></i></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib=compact)](https://github.com/mavbib/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/mavbib/)
 
