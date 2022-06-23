@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Hi! Bonjour! I'm Mavbib
+## Hi! Bonjour! I'm Mavbib
 <em>independent developer under the name Digitalinfo</em><br/>
-:mailbox_with_no_mail:##Reach me at
+:mailbox_with_no_mail:## Reach me at
 <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
 <a href="https://twitter.com/xaltran">Twitter</a><br/>
-##Github Stats
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
