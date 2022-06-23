@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Hi! Bonjour! I'm Mavbib</h2>
-<em>independant developer under the name Digitalinfo</em>
+<em>independent developer under the name Digitalinfo</em><br/>
 :mailbox_with_no_mail:<h2>Reach me at</h2>
-<a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a>
+<a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
 <a href="https://twitter.com/xaltran">Twitter</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib=compact)](https://github.com/mavbib/)
