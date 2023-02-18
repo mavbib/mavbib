@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :sunrise_over_mountains: Learning or improving
-[![My Skills](https://skillicons.dev/icons?i=solidity,react,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,solidity,react,rust)](https://skillicons.dev)
 
 ## :pushpin: Working on
 
