@@ -23,10 +23,15 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/xaltran">Twitter</a><br/>
  
 ## :triangular_ruler: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
-## Github Stats
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,django)](https://skillicons.dev)
+## :basecamp: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## :sunrise_over_mountains: Learning or improving
+[![My Skills](https://skillicons.dev/icons?i=solidity,react,rust)](https://skillicons.dev)
+
 ## :pushpin: Working on
+
+## :expressionless: Mood
 <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 
