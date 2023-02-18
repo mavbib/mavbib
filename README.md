@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ## Hi! Bonjour! I'm MarcAndre (Mavbib)
 *freelance developer under the name Digitalinfo*
 ## :mailbox_with_no_mail: Reach me at
-<a href="https://digitalinfo.ca">Digitalinfo.ca</a>
-<a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
-<a href="https://twitter.com/xaltran">Twitter</a><br/>
+
+  <a href="https://digitalinfo.ca">Digitalinfo.ca</a><br/>
+  <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
+  <a href="https://twitter.com/xaltran">Twitter</a><br/>
+ 
 ## :triangular_ruler: Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 ## Github Stats
