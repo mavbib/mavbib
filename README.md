@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/xaltran">Twitter</a><br/>
  
 ## :triangular_ruler: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,django)](https://skillicons.dev)
 ## :basecamp: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
