@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=php,solidity,react,rust)](https://skillicons.dev)
 
 ## :pushpin: Working on
-<p>Debugging</p>
+Debugging & testing
 ## :expressionless: Mood
 <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 
