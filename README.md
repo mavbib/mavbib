@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">
   <p><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" /></a></a></p><br/>
-  <a href="https://twitter.com/xaltran">Twitter</a><br/>
+  <a href="https://twitter.com/xaltran">  <p><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" /></a></a><br/>
  
 ## :triangular_ruler: Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,django)](https://skillicons.dev)
