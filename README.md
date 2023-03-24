@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   <a href="https://digitalinfo.ca">Digitalinfo.ca</a><br/>
   
   <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">
-  <p><span class="dashicons dashicons-twitter"></span></a>
+  <p>Linkedin
 </p></a>
     
   <a href="https://twitter.com/xaltran">
-  <p><span class="dashicons dashicons-twitter"></span></a>
+  <p>Twitter
   </p></a>
  
 ## :triangular_ruler: Skills
