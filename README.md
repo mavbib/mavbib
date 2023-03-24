@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## :mailbox_with_no_mail: Reach me at
 
   <a href="https://digitalinfo.ca">Digitalinfo.ca</a><br/>
-  <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">Linkedin</a><br/>
+  <a href="http://www.linkedin.com/in/marc-andre-veilleux-aa367b72">(https://skillicons.dev/icons?i=linkedin,figma&theme=light)](https://skillicons.dev)</a><br/>
   <a href="https://twitter.com/xaltran">Twitter</a><br/>
  
 ## :triangular_ruler: Skills
