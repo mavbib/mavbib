@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi! Bonjour! I'm MarcAndre (Mavbib)
+## Allo! I'm MarcAndre (Mavbib)
 *freelance developer under the name Digitalinfo*
 ## :mailbox_with_no_mail: Reach me at
 
@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   </p></a>
  
 ## :triangular_ruler: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,wordpress,py,django,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,svg,css,bootstrap,mysql,wordpress,py,django,git,vscode,nodejs)](https://skillicons.dev)
 ## :basecamp: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :sunrise_over_mountains: Learning or improving
-[![My Skills](https://skillicons.dev/icons?i=php,solidity,react,rust,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,solidity,react,rust)](https://skillicons.dev)
 
 ## :pushpin: Working on
 Debugging & testing
