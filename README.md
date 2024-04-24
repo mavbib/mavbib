@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </p></a>
  
 ## :triangular_ruler: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,svg,css,bootstrap,mysql,wordpress,py,django,git,vscode,nodejs,nextjs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,svg,css,bootstrap,mysql,docker,mongodb,wordpress,py,django,git,vscode,nodejs,nextjs,php)](https://skillicons.dev)
 ## :basecamp: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
