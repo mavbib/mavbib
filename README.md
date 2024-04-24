@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   </p></a>
  
 ## :triangular_ruler: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,svg,css,bootstrap,mysql,wordpress,py,django,git,vscode,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,svg,css,bootstrap,mysql,wordpress,py,django,git,vscode,nodejs,nextjs,php)](https://skillicons.dev)
 ## :basecamp: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavbib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :sunrise_over_mountains: Learning or improving
-[![My Skills](https://skillicons.dev/icons?i=php,solidity,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,rust,haskell,go,cs)](https://skillicons.dev)
 
 ## :pushpin: Working on
 Debugging & testing
